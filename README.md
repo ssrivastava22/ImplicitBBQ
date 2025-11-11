@@ -1,6 +1,6 @@
 # ImplicitBBQ
 
-This repository contains all the data and prompts for the **ImplicitBBQ** project, which explores implicit bias in language models using the BBQ Bias Benchmark. The project includes the ImplicitBBQ dataset and the exact prompts used for model interaction.
+This repository contains all the data and prompts for the **ImplicitBBQ** benchmark, which explores implicit bias in language models using the BBQ Bias Benchmark. The project includes the ImplicitBBQ dataset and the exact prompts used for model interaction.
 
 ---
 
